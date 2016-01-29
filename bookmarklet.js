@@ -1,0 +1,1 @@
+for (var i = 0; i < document.getElementById("pl-load-more-destination").children.length; i++) if (document.getElementById("pl-load-more-destination").children[i].dataset.title=="[Deleted Video]") document.getElementById("pl-load-more-destination").children[i].children[6].children[0].children[0].children[1].click();
